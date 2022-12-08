@@ -1,0 +1,28 @@
+.pageBg {
+  background: #f9f9f9;
+  width: 100%;
+  padding: 24px;
+}
+
+.customDrawer {
+  width: 200px;
+}
+.drawerPaper {
+  width: 240px;
+}
+
+.root {
+  display: flex;
+}
+
+.active {
+  background: #f4f4f4;
+}
+
+.title {
+  padding: 16px;
+}
+
+.date {
+  flex-grow: 1;
+}
